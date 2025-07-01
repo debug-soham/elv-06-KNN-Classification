@@ -22,7 +22,7 @@ This task focuses on implementing and analyzing the **K-Nearest Neighbors (KNN)*
 
 ## 📁 Files
 - `Iris_Species.csv` – Raw dataset  
-- `KNN_Iris_Classification.ipynb` – Notebook with all modeling, evaluation, and plots
+- `KNN_Classification.ipynb` – Notebook with all modeling, evaluation, and plots
 
 <br>
 
