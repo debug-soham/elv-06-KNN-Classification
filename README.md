@@ -1,4 +1,4 @@
-# Task 6: K-Nearest Neighbors (KNN) Classification 📍
+# Task 6: K-Nearest Neighbors (KNN) Classification
 
 This task focuses on implementing and analyzing the **K-Nearest Neighbors (KNN)** algorithm using the **Iris dataset**. It involves model training, evaluation, hyperparameter tuning, and visualizing performance.
 
